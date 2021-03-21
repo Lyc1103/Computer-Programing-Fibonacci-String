@@ -17,4 +17,4 @@
 </body>
 
 ### Reference = 
-<li><a herf = "https://noj.tw/problem/122">Normal OJ</a></li>
+<li><a href = "https://noj.tw/problem/122">Normal OJ</a></li>
