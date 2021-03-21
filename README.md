@@ -15,5 +15,5 @@
       <h4>s<sub>n-1</sub> and s<sub>n-2</sub>, for all n >= 2.</h4>
     </body>
 </body>
-
+***
 ### Reference : <a href = "https://noj.tw/problem/122">Normal OJ</a>
