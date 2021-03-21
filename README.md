@@ -16,5 +16,4 @@
     </body>
 </body>
 
-### Reference : 
-<a href = "https://noj.tw/problem/122">Normal OJ</a>
+### Reference : <a href = "https://noj.tw/problem/122">Normal OJ</a>
