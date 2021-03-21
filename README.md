@@ -1,4 +1,4 @@
-# Computer-Programing-Fibonacci-String
+# Computer-Programming-Fibonacci-String
 ***
 ## Description <br>
 <body>
